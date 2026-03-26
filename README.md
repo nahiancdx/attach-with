@@ -21,7 +21,7 @@ For example:
     `PS dotnet> build`
     `PS dotnet> run`
 
-![attach](https://github.com/evilprince2009/Attach-With/blob/main/images/attach.gif)
+![attach](https://github.com/nahiancdx/Attach-With/blob/main/images/attach.gif)
     
 To repeat commands:
 
@@ -39,5 +39,6 @@ To exit use `q` or `quit`.
 
 ## Ibne Nahian
 
-- #### [LinkedIn](https://www.linkedin.com/in/evilprince2009/)
-- #### [Upwork](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
+-   💼 [About](https://nstack.co/about/)
+-   🔗 [LinkedIn](https://www.linkedin.com/in/nahiancdx/)
+-   🔗 [X](https://x.com/nahiancdx)
