@@ -25,7 +25,7 @@ For example:
     
 To repeat commands:
 
-    `PS> attach g++ -o output input.c
+   `PS> attach g++ -o output input.c
     PS g++ -o -output main.cpp>
     <enter>
     Compiling...
