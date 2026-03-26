@@ -25,11 +25,11 @@ For example:
     
 To repeat commands:
 
-   `PS> attach g++ -o output input.c
-    PS g++ -o -output main.cpp>
-    <enter>
-    Compiling...
-    PS g++ -o -output main.cpp>`
+    `PS> attach g++ -o output input.c`
+    `PS g++ -o -output main.cpp>`
+    `<enter>`
+    `Compiling...`
+    `PS g++ -o -output main.cpp>`
 
 Execute a shell command with with `:` prefix.
 
